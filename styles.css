@@ -1,14 +1,17 @@
 body{background:#e034e6}
+
 #titulo1 { text-align: center;
 font-size: 50px;
-color:floralwhite
+color:floralwhite;
 
 }
+
+
 .p1 {text-align: justify;
 font-size: 20px;
 color:floralwhite;}
 
-}
+
 .p2 {text-align: justify;
     font-size: 20px;
     color:floralwhite;}
@@ -37,7 +40,14 @@ header{
     text-align: center;
     font-size: 50px;
     color:rgb(6, 130, 239)}
+
+
+
+
     .principal{
     background:#e034e6
     }
+
+
+    
     .beneficios{background-color:#e034e6 ;}
